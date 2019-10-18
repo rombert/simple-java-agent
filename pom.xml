@@ -41,8 +41,6 @@
                             <archive>
                                 <manifestEntries>
                                     <Premain-Class>nu.muntea.sja.Agent</Premain-Class>
-                                    <Can-Redefine-Classes>true</Can-Redefine-Classes>
-                                    <Can-Retransform-Classes>true</Can-Retransform-Classes>
                                 </manifestEntries>
                             </archive>
                             <descriptorRefs>
